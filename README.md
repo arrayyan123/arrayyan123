@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arrayyan123
-- 👀 I’m interested in Software Engineering, Artificial Intelligence 
+- 👀 I’m interested in Software/Web Development, Artificial Intelligence, Animation 
 - 🌱 I’m currently learning, python, golang, and Ruby
 - 💞️ I’m looking to collaborate on Manga, Games industries, and Machine Learning
 - 📫 How to reach me you can go to my Instagram @arryyn_april1
